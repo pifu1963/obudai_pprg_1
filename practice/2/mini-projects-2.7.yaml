@@ -1,0 +1,15 @@
+name: mini-project-2.7
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2024.7.2=haa95532_0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - pip=19.3.1=py27_0
+  - python=2.7.18=hfb89ab9_0
+  - setuptools=44.0.0=py27_0
+  - sqlite=3.30.1=h0c8e037_0
+  - vc=9=h2eaa2aa_6
+  - vs2008_runtime=9.00.30729.1=haa95532_6
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py27hf04cefb_0
+prefix: C:\Users\szucs\miniconda3\envs\mini-project-2.7
