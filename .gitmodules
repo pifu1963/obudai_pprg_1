@@ -1,0 +1,3 @@
+[submodule "practice/1/python-mini-projects"]
+	path = practice/1/python-mini-projects
+	url = https://github.com/Python-World/python-mini-projects.git
