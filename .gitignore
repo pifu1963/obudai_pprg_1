@@ -1,3 +1,4 @@
 .*exe
 /.ipynb_checkpoints
 .*idea/
+*solutions*
